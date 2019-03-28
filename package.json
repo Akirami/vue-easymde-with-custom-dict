@@ -29,7 +29,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "easymde-with-custom-dict" : "git://github.com/Akirami/vue-easymde-with-custom-dict.git",
+    "easymde-with-custom-dict" : "git://github.com/Akirami/easymde-with-custom-dict.git",
     "marked": "^0.6.1"
   }
 }

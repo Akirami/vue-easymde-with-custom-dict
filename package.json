@@ -29,8 +29,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "easymde": "^2.5.1",
-    "marked": "^0.5.1"
+    "easymde-with-custom-dict": "^2.5.1",
+    "marked": "^0.6.1"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",

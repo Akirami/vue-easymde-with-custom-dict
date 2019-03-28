@@ -29,7 +29,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "easymde" : "http://github.com/:Akirami/easy-markdown-editor-with-custom-dict.git",
+    "easymde" : "http://github.com/Akirami/easy-markdown-editor-with-custom-dict.git",
     "marked": "^0.6.1"
   }
 }
